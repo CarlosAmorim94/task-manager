@@ -13,4 +13,5 @@ public class Task {
     private User user;
     private String title;
     private String description;
+    private boolean completed = Boolean.FALSE;
 }
